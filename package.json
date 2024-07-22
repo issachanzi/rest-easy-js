@@ -1,0 +1,11 @@
+{
+  "name": "rest-easy-js",
+  "version": "0.0.1",
+  "description": "A frontend library for the rest-easy framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Issa Chanzi",
+  "license": "UNLICENSED"
+}
